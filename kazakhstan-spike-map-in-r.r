@@ -1,8 +1,4 @@
-#######################################################
-#                 Making crisp spike maps with R
-#                 Milos Popovic
-#                 2023/03/12
-########################################################
+
 # install rayshader & rayrender from the source
 devtools::install_github("tylermorganwall/rayshader")
 devtools::install_github("tylermorganwall/rayrender")
